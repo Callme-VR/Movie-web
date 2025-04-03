@@ -12,7 +12,9 @@ function Favorites() {
           <MovieCard movie={movie} key={movie.id}/>
         )}}};
       </div>
+      heloo
     </div>
   }
 }
 export default Favorites;
+
